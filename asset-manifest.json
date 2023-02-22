@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.16120c0d.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.16120c0d.js.map": "/react-gh-pages/static/js/main.16120c0d.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Zerofour-React-Pages/static/css/main.073c9b0a.css",
+    "main.js": "/Zerofour-React-Pages/static/js/main.ed53f99a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Zerofour-React-Pages/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Zerofour-React-Pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Zerofour-React-Pages/index.html",
+    "main.073c9b0a.css.map": "/Zerofour-React-Pages/static/css/main.073c9b0a.css.map",
+    "main.ed53f99a.js.map": "/Zerofour-React-Pages/static/js/main.ed53f99a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Zerofour-React-Pages/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.16120c0d.js"
+    "static/js/main.ed53f99a.js"
   ]
 }
